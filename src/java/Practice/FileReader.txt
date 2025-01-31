@@ -1,0 +1,9 @@
+id  name    age sal deptId  doj address    pin  deptName
+1   harika  21  25000   201 23-02-2024  Plot_No_72 500075  IT
+5   anil    26  54000   567 12-09-2022  Plot_No_67  500075  Devops
+8   myra    67  650000   507 08-06-2020  Plot_No_21  500075  QA
+2   teja    78  870000   567 15-03-2021  Plot_No_34  500075  Devops
+6   raj     34  12000   201 18-02-2024  Plot_No_98  500075  IT
+9   sudheer 45  38000   201 23-02-2024  Plot_No_12  500075  IT
+7   vayu    12  410000   201 14-02-2024  Plot_No_33  500075  IT
+3   arha    34  99000   567 18-02-2024  Plot_No_78  500075  Devops
